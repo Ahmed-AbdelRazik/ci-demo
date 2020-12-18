@@ -1,0 +1,9 @@
+C:\Users\its\source\repos\HelloCI\src\app\HelloCI.Core\bin\Debug\netcoreapp3.1\HelloCI.Core.deps.json
+C:\Users\its\source\repos\HelloCI\src\app\HelloCI.Core\bin\Debug\netcoreapp3.1\HelloCI.Core.dll
+C:\Users\its\source\repos\HelloCI\src\app\HelloCI.Core\bin\Debug\netcoreapp3.1\HelloCI.Core.pdb
+C:\Users\its\source\repos\HelloCI\src\app\HelloCI.Core\obj\Debug\netcoreapp3.1\HelloCI.Core.csprojAssemblyReference.cache
+C:\Users\its\source\repos\HelloCI\src\app\HelloCI.Core\obj\Debug\netcoreapp3.1\HelloCI.Core.AssemblyInfoInputs.cache
+C:\Users\its\source\repos\HelloCI\src\app\HelloCI.Core\obj\Debug\netcoreapp3.1\HelloCI.Core.AssemblyInfo.cs
+C:\Users\its\source\repos\HelloCI\src\app\HelloCI.Core\obj\Debug\netcoreapp3.1\HelloCI.Core.csproj.CoreCompileInputs.cache
+C:\Users\its\source\repos\HelloCI\src\app\HelloCI.Core\obj\Debug\netcoreapp3.1\HelloCI.Core.dll
+C:\Users\its\source\repos\HelloCI\src\app\HelloCI.Core\obj\Debug\netcoreapp3.1\HelloCI.Core.pdb
