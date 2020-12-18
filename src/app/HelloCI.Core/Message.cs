@@ -7,6 +7,11 @@ namespace HelloCI.Core
         public string Title { get; set; }
         public string Body { get; set; }
 
+        public Message()
+        {
+
+        }
+
         public string GetFullMessage()
         {
             return Title + " :" + Body; 
